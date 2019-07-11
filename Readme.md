@@ -5,8 +5,8 @@ The article was published on:
 - **[deeptanshumalik.com](deeptanshumalik.com)** July 3, 2019 
   - [https://deeptanshumalik.com/2019/07/03/async-programming-demo/](https://deeptanshumalik.com/2019/07/03/async-programming-demo/)
 - **[hackernoon.com](hackernoon.com)** July 10, 2019
- - [https://hackernoon.com/asynchronous-programming-101-5ac0fa4e84e8](https://hackernoon.com/asynchronous-programming-101-5ac0fa4e84e8)
-- featured as editors' choice
+  - [https://hackernoon.com/asynchronous-programming-101-5ac0fa4e84e8](https://hackernoon.com/asynchronous-programming-101-5ac0fa4e84e8)
+  - featured as editors' choice
 - **[gist.github.com/DeeptanshuM](https://gist.github.com/DeeptanshuM)** July 5, 2019 
   - [https://gist.github.com/DeeptanshuM/f3b2a0da352e991b6c17289b5a37dd5c](https://gist.github.com/DeeptanshuM/f3b2a0da352e991b6c17289b5a37dd5c)
   
